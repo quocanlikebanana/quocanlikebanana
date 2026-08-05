@@ -1,6 +1,6 @@
 # Hi, I'm Quoc An 🐭
 
-**Full-Stack Developer** based in Vietnam with one year of experience building web applications across the full stack.
+**Full-Stack Developer** based in Vietnam with one year of experience building **full-stack** web applications.
 
 I've been working on enterprise systems like HR & leave management platforms, geospatial mapping apps, and AI-powered document processing pipelines — using .NET on the backend and React/TypeScript on the frontend.
 
